@@ -1,0 +1,6 @@
+# backup files
+*.bak
+# export files for BOM
+*.csv
+*.tsv
+*.xml
