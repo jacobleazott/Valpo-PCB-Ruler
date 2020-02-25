@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name PCB_Ruler_6_8)(type KiCad)(uri "C:\Users\jacob\Documents\PCB Rulers\Valpo-PCB-Ruler\Valpo-PCB-Ruler-FP")(options "")(descr ""))
+  (lib (name PCB_Ruler_6_8)(type KiCad)(uri "C:/Users/jacob/Documents/PCB Rulers/Valpo-PCB-Ruler/Valpo-PCB-Ruler-FP")(options "")(descr ""))
+  (lib (name Valpo-PCB-Ruler-FP)(type KiCad)(uri ${KIPRJMOD}/Valpo-PCB-Ruler-FP)(options "")(descr ""))
 )
